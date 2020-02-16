@@ -30,9 +30,9 @@ Screenshot of the deployed application..
 
 # Links :
 
- https://ana199816.github.io/homework-08/ - WebSite
+ https://asproject2.herokuapp.com/ - WebSite
 
- https://github.com/Ana199816/homework-08 - GitHub
+ https://github.com/Ana199816/homework-16 - GitHub
 
 
 
