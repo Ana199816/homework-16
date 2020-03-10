@@ -39,12 +39,14 @@ Screenshot of the deployed application..
 
 # Screenshots : 
 <br> 
-<br>
-<br>
+
 
   <img src="assets/img/screen3.png">
 <br>
 <br>
 <br>
   <img src="assets/img/capture.png">
+  <br>
+<br>
+<br>
   <img src="assets/img/capture3.png">
