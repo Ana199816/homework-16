@@ -39,6 +39,6 @@ Screenshot of the deployed application..
 
  Screenshots : 
   <img src="assets/img/screen3.png">
-
+<br>
   <img src="assets/img/capture.png">
   <img src="assets/img/capture3.png">
