@@ -31,7 +31,7 @@ Screenshot of the deployed application..
 <br>
 # Links :
 
- https://ana199816.github.io/homework-16 - WebSite
+ https://annasuvvac.github.io/homework-16/ - WebSite
 
  https://github.com/Ana199816/homework-16 - GitHub
 
